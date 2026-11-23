@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "moss-trail",
+      "revision": 1,
+      "name": "苔径 · Moss Trail",
+      "author": "AutumnMark",
+      "base": "graphite",
+      "path": "themes/moss-trail/1/theme.theme.json",
+      "preview": "themes/moss-trail/1/preview.png",
+      "sha256": "47f5bdaedf89c5ce26faa280d203a9e1b0e3ff87f597221bc05a7681264094af",
+      "minAppVersion": "0.24.0"
+    }
+  ]
+}
